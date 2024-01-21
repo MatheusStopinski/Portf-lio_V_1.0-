@@ -165,11 +165,17 @@ h3 {
     width: 20rem 
 }
 
-.verCodigo{
+.verCodigo, .verCodigo2 {
     font-size: 19px;
     font-weight: 700;
     color: #8DCEE0;
     margin-left: 32px;
+    text-decoration: underline;
+    cursor: pointer;
+} 
+
+.verCodigo:hover {
+    text-decoration: none;
 } 
 
 .descricaoProjeto2 {
