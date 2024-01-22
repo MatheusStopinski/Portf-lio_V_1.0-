@@ -254,8 +254,8 @@ h3 {
   border: 5px ridge rgb(81, 81, 85);
 }
 
-.pokedex {
-    background: url(../img/pokedex.png) no-repeat center;
+.piano {
+    background: url(../img/piano.png) no-repeat center;
     border-radius: 2px;
     transform: scale(0.8);   
     display: table;
