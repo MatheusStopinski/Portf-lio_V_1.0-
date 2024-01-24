@@ -1,0 +1,394 @@
+@media screen and (max-width: 1177px) and (max-height: 801px) {
+   
+   .navBar {
+    justify-content: center;
+    margin-left: -40px;
+   }
+   
+    #Home {
+    transform: scale(0.7);
+    margin: -10px 0 -85px 0;
+   }
+
+   .textoPerfil {
+    font-size: 30px;
+   }
+
+   main{
+    margin-left: -180px;
+   }
+
+   #projeto1 {
+    margin-top: -20px;
+   }
+
+   #projeto1, #projeto3, #projeto4, #projeto5, #projeto6, #projeto7 {
+    transform: scale(0.8);
+    margin-bottom: -80px;
+   }
+
+   #projeto2 {
+    transform: scale(0.89);
+    margin-bottom: -10.5px;
+   }
+
+   .h2_Titulo2 {
+    margin-top: 90px;
+   }
+
+   .curiosidades {
+    transform: scale(0.8);
+    margin: -5px 0 -50px 73px;
+   }
+
+   #boxFinsh {
+    margin-left: -75px;
+   }
+
+   .button {
+    margin-top: -100px;
+    margin-left: 25px;
+   }
+
+   footer {
+    display: none;
+   }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 600px) {
+
+    body::-webkit-scrollbar {
+        width: 17px;  
+    } 
+
+    .navBar {
+        transform: scale(0.9);
+        margin-left: 50px;
+    
+    }
+       
+    #Home {
+        transform: scale(0.65);
+        margin: -10px 0 -25px 30px;
+       }
+
+    .textoPerfil {
+        display: flex;
+        font-size: 29px;
+        margin-left: -145px;
+        white-space: none;
+        max-width: 390px;
+       }
+       
+       .h2_Titulo {        
+        margin-top: -20px;
+        margin-left: 20px;
+        font-size: 25px;
+       }
+
+       main{
+        margin-left: -130px;
+       }
+    
+       #projeto1 {
+        margin-top: -90px;
+       }
+    
+       #projeto1, #projeto3, #projeto4, #projeto5, #projeto6, #projeto7 {
+        transform: scale(0.6);
+        margin-bottom: -120px;
+       }
+    
+       #projeto2 {
+        transform: scale(0.78);
+        margin-bottom: -42.5px;
+       }
+    
+       .h2_Titulo2{
+        font-size: 27px;
+       }
+    
+       .curiosidades {
+        transform: scale(0.68);
+        margin: -75px 0 -50px 73px;
+       }
+
+       .h2_Titulo3 {
+        font-size: 27px;
+        margin-top: -24px;
+        margin-bottom: -78px;
+       }
+    
+       #boxFinsh {
+        transform: scale(0.8);
+        margin-left: -75px;
+       }
+    
+       .button {
+        margin-top: -150px;
+        padding: 3px;
+        width: 66px;
+        height: 66px;
+        font-size: 1px;
+        color: transparent;
+       }
+    
+       footer {
+        display: none;
+       }
+
+}
+
+@media screen and (max-width: 768px) and (max-height: 1024px) {
+  
+    .navBar {
+        margin-left: 12px;
+        justify-content: center;    
+    }
+       
+    #Home {
+        transform: scale(0.65);
+        margin: 50px 0 -145px 125px;
+       }
+
+    .textoPerfil {
+        display: none;
+       }
+
+    .perfilFoto {
+        margin-top: -100px;
+        height: 500px;
+    }      
+       .h2_Titulo {        
+        margin-top: -20px;
+        margin-left: 20px;
+        font-size: 25px;
+       }
+
+       main{
+        margin-left: -80px;
+       }
+    
+       #projeto1 {
+        margin-top: -90px;
+       }
+    
+       #projeto1, #projeto3, #projeto4, #projeto5, #projeto6, #projeto7 {
+        transform: scale(0.6);
+        margin-bottom: -120px;
+       }
+    
+       #projeto2 {
+        transform: scale(0.78);
+        margin-bottom: -42.5px;
+       }
+    
+       .h2_Titulo2{
+        font-size: 27px;
+        margin-top: 100px;
+       }
+    
+       .curiosidades {
+        transform: scale(0.68);
+        margin: -75px 0 -50px 73px;
+       }
+
+       .h2_Titulo3 {
+        font-size: 27px;
+        margin-top: 10px;
+        margin-bottom: -78px;
+       }
+    
+       #boxFinsh {
+        transform: scale(0.8);
+        margin-left: -75px;
+       }
+    
+       .button {
+        margin-top: -150px;
+        padding: 3px;
+        width: 66px;
+        height: 66px;
+        font-size: 1px;
+        color: transparent;
+       }
+    
+       footer {
+        display: none;
+       }
+}
+
+@media screen and (max-width: 420px) and (max-height: 737px) {   
+    .navBar {
+        transform: scale(0.8);
+        justify-content: center;    
+        margin-left: -330px;
+        overflow-x: hidden;
+    }
+
+    #Home {
+        display: flex;
+        flex-direction: column;  
+        width: 250px;
+        height: auto;
+        margin-top: 30px;
+        margin-bottom: 200px;
+        margin-right: -30px;
+    }
+
+    .perfilFoto {
+        transform: scale(0.78);        
+    }
+
+    .boxPerfil {
+        margin-left: -240px;
+        margin-top: 30px;
+    }
+
+    .h2_Titulo {        
+        margin-top: -320px;
+        margin-bottom: 125px;
+        margin-left: 60px;
+        font-size: 30px;
+    }
+
+    main{
+        margin-left: 70px;
+       }
+
+       .box_projeto_filho {
+        display: flex;
+        flex-direction: column; 
+        height: auto;
+       }
+
+        #projeto1, #projeto3, #projeto4, #projeto5, #projeto6, #projeto7 {
+        transform: scale(0.96);
+        margin-bottom: -20px;
+        margin-left: 530px;
+       }
+       
+
+       #projeto2 {
+        transform: scale(0.98);
+        margin-bottom: 19.5px;
+        margin-left: 270px;                
+       }
+
+       .h2_Titulo2 {
+        margin-top: 60px;
+        margin-left: 70px;
+        width: 100%;
+        font-size: 28px;
+       }
+
+       .perfilFoto2 {
+        display: none;
+       }
+
+       .boxPerfil2 {
+        transform: scale(1.5);
+        margin-top: 150px;
+        margin-right: -450px;
+       }
+
+       .h2_Titulo3 {
+        margin-top: 175px;
+        margin-left: 50px;
+        margin-bottom: -40px;
+       }
+
+       #boxFinsh{
+        margin-left: -50px;
+        margin-bottom: -150px;
+        height: auto;
+       }
+
+       .button {       
+        display: flex;
+        padding: 3px;
+        width: 66px;
+        height: 66px;
+        background: aliceblue;
+        color: transparent; 
+        position: absolute;
+        bottom: -6440px;
+        margin-left: 50px;
+       }
+}
+
+@media screen and (max-width: 376px) and (max-height: 668px) {
+    main {
+        margin-left: 430px;
+    }
+    
+    .navBar {
+        margin-left: -380px;
+        transform: scale(1.1);
+        height: 80px;
+    }
+   
+    #Home {
+        margin-left: -40px;
+    }
+    .perfilFoto {
+        transform: scale(1.1);
+        margin-top: 0px;
+    }
+    .boxPerfil {
+        transform: scale(1.2);
+        margin-top: 105px;
+    }
+ 
+    .h2_Titulo2{
+        margin-left: -120px;
+        margin-top: -50px;
+        text-align: center;        
+        font-size: 37px;
+        width: auto;
+    }
+
+    .h2_Titulo {
+        margin-top: -350px;
+        margin-bottom: 120px;
+    }
+
+    #projeto1, #projeto3, #projeto4, #projeto5, #projeto6, #projeto7 {
+        transform: scale(1.2);
+        margin-bottom: 200px;
+        margin-right: 29px;
+    }
+
+    #projeto2 {
+        transform: scale(1.09);
+        margin-bottom: 140px;
+        margin-right: 35px;
+    }
+
+    .boxPerfil2 {
+        transform: scale(1.9);
+        margin-top: 190px;
+        margin-left: -190px;
+    }
+
+    .h2_Titulo3 {
+        font-size: 30px;
+        margin-top: 290px;
+        margin-left: -90px;
+        width: auto;
+    }
+
+    #boxFinsh {
+        transform: scale(1.05);
+        margin-top: 20px;
+        margin-left: -250px;
+    }
+
+    .button {
+        margin-bottom: -1850px;
+        margin-left: -80px;
+    }
+
+}
+
+

@@ -36,8 +36,13 @@ header {
     display: flex;
     gap: 20px;
 }
-.tagA {
+
+.tagA, .tagB {
     text-decoration: none;
+}
+
+.tagB {
+    margin-left: 20px;
 }
 
 a {
@@ -470,7 +475,6 @@ h4 {
     opacity: 0;
     transition: 2.5s ease;
 }
-
 
 [data-anime="down"] {
     transform: translate3d(0, -100px, 0);
