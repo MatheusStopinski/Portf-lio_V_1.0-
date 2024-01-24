@@ -1,6 +1,6 @@
 /* Fiz a responsividade por conta, antes de aprender em qualquer lugar. Qual o ponto positivo disso? Pelo menos sou esforçado, além disso, é fato que o projeto eu que inventei kkk. */
 
-@media screen and (max-width: 1177px) and (max-height: 801px) {
+@media screen and (max-width: 1177px) {
    
    .boxPerfil {
     margin-top: 250px;
@@ -19,7 +19,7 @@
    }
 }
 
-@media screen and (max-width: 951px) and (max-height: 801px) {
+@media screen and (max-width: 951px) {
    
     #Home {
         margin-left: 150px;
@@ -45,7 +45,7 @@
    
  }
 
- @media screen and (max-width: 795px) and (max-height: 801px) {
+ @media screen and (max-width: 795px) {
    
     .navBar {
         margin-left: 100px;
@@ -101,7 +101,7 @@
    
  }
 
- @media screen and (max-width: 735px) and (max-height: 801px) {
+ @media screen and (max-width: 735px) {
    
     .navBar {
         margin-left: 60px;
@@ -111,7 +111,7 @@
    
  }
 
- @media screen and (max-width: 735px) and (max-height: 801px) {
+ @media screen and (max-width: 735px) {
    
     .navBar {
         margin-left: 60px;
@@ -120,7 +120,7 @@
    
  }
 
- @media screen and (max-width: 693px) and (max-height: 801px) {
+ @media screen and (max-width: 693px) {
    
     .navBar {
         margin-left: 40px;
@@ -209,7 +209,7 @@
      }
  }
 
- @media screen and (max-width: 670px) and (max-height: 801px) {
+ @media screen and (max-width: 670px) {
    
     .navBar {
         display: none;
@@ -221,7 +221,7 @@
 
  }
 
- @media screen and (max-width: 521px) and (max-height: 618px) {   
+ @media screen and (max-width: 521px) {   
 
     #Home {
         margin-left: -60px;   
@@ -275,7 +275,7 @@
 
  }
 
- @media screen and (max-width: 441px) and (max-height: 618px) {   
+ @media screen and (max-width: 441px)  {   
 
    .boxPerfil {
     transform: scale(0.7);
@@ -339,7 +339,7 @@
 
  }
 
- @media screen and (max-width: 351px) and (max-height: 618px) {   
+ @media screen and (max-width: 351px) {   
 
     .boxPerfil {
      transform: scale(0.7);
@@ -384,7 +384,7 @@
  
   }
 
- @media screen and (max-width: 301px) and (max-height: 618px) {   
+ @media screen and (max-width: 301px) {   
 
     .boxPerfil {
      transform: scale(0.61);
